@@ -5,6 +5,11 @@
 ## Current version : 0.924
 ## Dexious r1, port to Al Rayak and minor changes. 
 
+## Mods
+CUP Core (http://steamcommunity.com/sharedfiles/filedetails/?id=583496184&searchtext=cup+core)
+CUP Maps (http://steamcommunity.com/sharedfiles/filedetails/?id=583544987&searchtext=cup+maps)
+G.O.S Al Rayak (http://steamcommunity.com/sharedfiles/filedetails/?id=648172507&searchtext=al+rayak)
+
 ## Overview:
 
 Al Rayak has fallen to the CSAT forces and it is up to you to take it back. Embark with your teammates on a persistent campaign that will span several weeks of real time to liberate all the major cities.
