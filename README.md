@@ -6,9 +6,11 @@
 ## Dexious r1, port to Al Rayak and minor changes. 
 
 ## Mods
-CUP Core (http://steamcommunity.com/sharedfiles/filedetails/?id=583496184&searchtext=cup+core)
-CUP Maps (http://steamcommunity.com/sharedfiles/filedetails/?id=583544987&searchtext=cup+maps)
-G.O.S Al Rayak (http://steamcommunity.com/sharedfiles/filedetails/?id=648172507&searchtext=al+rayak)
+1) CUP Core (http://steamcommunity.com/sharedfiles/filedetails/?id=583496184&searchtext=cup+core)
+
+2) CUP Maps (http://steamcommunity.com/sharedfiles/filedetails/?id=583544987&searchtext=cup+maps)
+
+3) G.O.S Al Rayak (http://steamcommunity.com/sharedfiles/filedetails/?id=648172507&searchtext=al+rayak)
 
 ## Overview:
 
