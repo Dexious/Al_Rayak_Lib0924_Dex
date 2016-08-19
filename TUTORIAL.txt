@@ -1,0 +1,41 @@
+### 							CREDITS 								  ###
+### Applejakerie (https://forums.bistudio.com/user/1125972-applejakerie/) ###
+#############################################################################
+
+		//REQUIREMENTS
+PBO Manager = http://www.armaholic.com/page.php?id=16369					//This is to open Greuh_Lib0924_AJ.Tanoa.pbo so that you can access the folders and files. 
+Notepad++ = https://notepad-plus-plus.org/download/v6.9.2.html					//This is what you should use, not Notepad but Notepad++, it's so much more effective. 
+SQF Syntax Highlighting and Auto Completion = http://www.armaholic.com/page.php?id=8680		//Import .SQF for ease of use, it's really helpful if you're planning on playing around with missions like this more often, or already do.
+
+		//GUIDE
+1. De-PBO + quick explanation:
+"Al_Rayak_Lib0924_Dex_r1.pja310.pbo" is the final construct. To open that, install PBO Manager and right click "Al_Rayak_Lib0924_Dex_r1.pja310.pbo" > PBO Manager > Extract to "Al_Rayak_Lib0924_Dex_r1.pja310".
+After this you have the folder "Al_Rayak_Lib0924_Dex_r1.pja310", this is the unpacked mission. Head on inside for all folders files you'll ever need to alter your mission.
+Be warned, things can and will break when you mess things up so if you don't know what you're doing, follow the guide here and the comments within the specific files to the letter.
+When you are done editing, right click the "Al_Rayak_Lib0924_Dex_r1.pja310" folder > PBO Manager > Pack into "Al_Rayak_Lib0924_Dex_r1.pja310.pbo". 
+It will then update your old "Greuh_Lib0924_AJ.Tanoa.pbo" with the new altered version and also create a .bak file of your last mission contents, ignore this, it's just a backup.
+
+"Al_Rayak_Lib0924_Dex_r1.pja310.pbo" is the end game, the file you want to host. 
+
+2. Mission default parameters:
+You can change the default parameters here: "Al_Rayak_Lib0924_Dex_r1.pja310\ui\mission_params.hpp". (So that you don't have to do this every time you restart your server and consequently your mission).
+
+3. The Commander whitelist! 
+Very important to setup, otherwise anyone will have access to the Commander role where a fully unlocked Zeus will soon be available.
+You want the file "Al_Rayak_Lib0924_Dex_r1.pja310\Whitelist.sqf" and to follow the comments. I suggest using the PlayerID as it's the most secure, as it states. There's already some included since testing days, feel free to remove.
+This has updated since 1.62, you can now find your player ID under profile (top right), Unit tab, Unit > Custom.
+
+4. Adding/removing to and from the "BUILD" menu. As well as changing resource prices:
+It's very important you get this right. You'll want "Al_Rayak_Lib0924_Dex_r1.pja310\scripts\shared\classnames.sqf".
+Just follow the comments inside that file and you should be okay. It's not a hard task but it can lead to stupid errors and/or your mission not loading (most commonly).
+
+5. Adding/removing to and from the enemy spawn lists. As well as changing spawn chances:
+You'll want "Al_Rayak_Lib0924_Dex_r1.pja310\scripts\shared\classnames.sqf" again, or at least the lower half, to edit the enemy spawn rate and choices. Again, follow the comments.
+
+6. Adding new modded content to the Liberation mission:
+To add new modded content, without breaking the update process, you'll want this file: "Al_Rayak_Lib0924_Dex_r1.pja310\classnames_extension.sqf" - It will also allow other players to join without the mod and any relateable issues as consequence.
+Think about this though. For instance, them not being able to see the plane you're flying is fine technically. Them not being able to see the tank the enemy spawn is not, for obvious reasons.
+
+7. Changing the incorrect dialogue!
+If you'd like to change the mission description as you've converted it with some mods, like say you're Russian's facing NATO on CUP Terrains' Everon, then open "Al_Rayak_Lib0924_Dex_r1.pja310\stringtables.xml" with Notepad++ and go to line 10.
+To update your new Secondary Objective costs because you've changed the defaults and want the dialogue panel to display those changes as well, then you want to look for "SECONDARY_MISSION0", line 2452 onwards.
