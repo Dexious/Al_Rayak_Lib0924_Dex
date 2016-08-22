@@ -18,7 +18,7 @@
 
 6) Project OPFOR (http://steamcommunity.com/sharedfiles/filedetails/?id=735566597)
 
-7) Task Force Radio [OPTIONAL] (https://steamcommunity.com/sharedfiles/filedetails/?id=620019431)
+7) Task Force Radio (OPTIONAL) (https://steamcommunity.com/sharedfiles/filedetails/?id=620019431)
 
 ## Overview:
 
