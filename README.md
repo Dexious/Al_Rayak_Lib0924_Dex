@@ -12,6 +12,14 @@
 
 3) G.O.S Al Rayak (http://steamcommunity.com/sharedfiles/filedetails/?id=648172507&searchtext=al+rayak)
 
+4) RHS USAF (http://www.rhsmods.org/mod/2)
+
+5) RHS AFRF (http://www.rhsmods.org/mod/1)
+
+6) Project OPFOR (http://steamcommunity.com/sharedfiles/filedetails/?id=735566597)
+
+7) Task Force Radio [OPTIONAL] (https://steamcommunity.com/sharedfiles/filedetails/?id=620019431)
+
 ## Overview:
 
 Al Rayak has fallen to the CSAT forces and it is up to you to take it back. Embark with your teammates on a persistent campaign that will span several weeks of real time to liberate all the major cities.
