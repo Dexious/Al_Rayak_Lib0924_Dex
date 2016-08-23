@@ -9,16 +9,16 @@ SQF Syntax Highlighting and Auto Completion = http://www.armaholic.com/page.php?
 
 		//GUIDE
 1. De-PBO + quick explanation:
-"Al_Rayak_Lib0924_Dex_r1.pja310.pbo" is the final construct. To open that, install PBO Manager and right click "Al_Rayak_Lib0924_Dex_r1.pja310.pbo" > PBO Manager > Extract to "Al_Rayak_Lib0924_Dex_r1.pja310".
-After this you have the folder "Al_Rayak_Lib0924_Dex_r1.pja310", this is the unpacked mission. Head on inside for all folders files you'll ever need to alter your mission.
+"Al_Rayak_Lib0924_Dex_r#.pja310.pbo" is the final construct. To open that, install PBO Manager and right click "Al_Rayak_Lib0924_Dex_r#.pja310.pbo" > PBO Manager > Extract to "Al_Rayak_Lib0924_Dex_r1.pja310".
+After this you have the folder "Al_Rayak_Lib0924_Dex_r#.pja310", this is the unpacked mission. Head on inside for all folders files you'll ever need to alter your mission.
 Be warned, things can and will break when you mess things up so if you don't know what you're doing, follow the guide here and the comments within the specific files to the letter.
-When you are done editing, right click the "Al_Rayak_Lib0924_Dex_r1.pja310" folder > PBO Manager > Pack into "Al_Rayak_Lib0924_Dex_r1.pja310.pbo". 
+When you are done editing, right click the "Al_Rayak_Lib0924_Dex_r#.pja310" folder > PBO Manager > Pack into "Al_Rayak_Lib0924_Dex_r#.pja310.pbo". 
 It will then update your old "Greuh_Lib0924_AJ.Tanoa.pbo" with the new altered version and also create a .bak file of your last mission contents, ignore this, it's just a backup.
 
-"Al_Rayak_Lib0924_Dex_r1.pja310.pbo" is the end game, the file you want to host. 
+"Al_Rayak_Lib0924_Dex_r#.pja310.pbo" is the end game, the file you want to host. 
 
 2. Mission default parameters:
-You can change the default parameters here: "Al_Rayak_Lib0924_Dex_r1.pja310\ui\mission_params.hpp". (So that you don't have to do this every time you restart your server and consequently your mission).
+You can change the default parameters here: "Al_Rayak_Lib0924_Dex_r#.pja310\ui\mission_params.hpp". (So that you don't have to do this every time you restart your server and consequently your mission).
 
 3. The Commander whitelist! 
 Very important to setup, otherwise anyone will have access to the Commander role where a fully unlocked Zeus will soon be available.
