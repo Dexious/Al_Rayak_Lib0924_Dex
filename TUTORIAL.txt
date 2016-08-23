@@ -3,7 +3,7 @@
 #############################################################################
 
 		//REQUIREMENTS
-PBO Manager = http://www.armaholic.com/page.php?id=16369					//This is to open Greuh_Lib0924_AJ.Tanoa.pbo so that you can access the folders and files. 
+PBO Manager = http://www.armaholic.com/page.php?id=16369					//This is to open Al_Rayak_Lib0924_Dex_r#.pja310.pbo so that you can access the folders and files. 
 Notepad++ = https://notepad-plus-plus.org/download/v6.9.2.html					//This is what you should use, not Notepad but Notepad++, it's so much more effective. 
 SQF Syntax Highlighting and Auto Completion = http://www.armaholic.com/page.php?id=8680		//Import .SQF for ease of use, it's really helpful if you're planning on playing around with missions like this more often, or already do.
 
