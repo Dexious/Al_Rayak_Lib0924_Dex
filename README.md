@@ -22,7 +22,7 @@
 
 ## Overview:
 
-Al Rayak has fallen to the CSAT forces and it is up to you to take it back. Embark with your teammates on a persistent campaign that will span several weeks of real time to liberate all the major cities.
+Al Rayak has fallen to the ISTS forces and it is up to you to take it back. Embark with your teammates on a persistent campaign that will span several weeks of real time to liberate all the major cities.
 * Experience a massive CTI campaign across and all over Al Rayak.
 * Cooperate with 0 to 40 other players, with a Commander role, support systems and recruitable AI troops to fill the gaps.
 * Buy troops and vehicles using three different types of resources.
