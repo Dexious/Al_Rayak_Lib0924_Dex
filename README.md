@@ -3,7 +3,7 @@
 # Liberation for Arma 3
 
 ## Current version : 0.924
-## Dexious r3, port to Al Rayak and minor changes. 
+## Dexious port to Al Rayak and minor changes. 
 
 ## Mods
 1) CUP Core (http://steamcommunity.com/sharedfiles/filedetails/?id=583496184&searchtext=cup+core)
