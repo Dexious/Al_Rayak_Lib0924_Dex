@@ -6,19 +6,21 @@
 ## Dexious port to Al Rayak and minor changes. 
 
 ## Mods
-1) CUP Core (http://steamcommunity.com/sharedfiles/filedetails/?id=583496184&searchtext=cup+core)
+1) CBA_A3 (https://steamcommunity.com/workshop/filedetails/?id=450814997)
 
-2) CUP Maps (http://steamcommunity.com/sharedfiles/filedetails/?id=583544987&searchtext=cup+maps)
+2) CUP Core (http://steamcommunity.com/sharedfiles/filedetails/?id=583496184&searchtext=cup+core)
 
-3) G.O.S Al Rayak (http://steamcommunity.com/sharedfiles/filedetails/?id=648172507&searchtext=al+rayak)
+3) CUP Maps (http://steamcommunity.com/sharedfiles/filedetails/?id=583544987&searchtext=cup+maps)
 
-4) RHS USAF (http://www.rhsmods.org/mod/2)
+4) G.O.S Al Rayak (http://steamcommunity.com/sharedfiles/filedetails/?id=648172507&searchtext=al+rayak)
 
-5) RHS AFRF (http://www.rhsmods.org/mod/1)
+5) RHS USAF (http://www.rhsmods.org/mod/2)
 
-6) Project OPFOR (http://steamcommunity.com/sharedfiles/filedetails/?id=735566597)
+6) RHS AFRF (http://www.rhsmods.org/mod/1)
 
-7) Task Force Radio (OPTIONAL) (https://steamcommunity.com/sharedfiles/filedetails/?id=620019431)
+7) Project OPFOR (http://steamcommunity.com/sharedfiles/filedetails/?id=735566597)
+
+8) Task Force Radio (OPTIONAL) (https://steamcommunity.com/sharedfiles/filedetails/?id=620019431)
 
 ## Overview:
 
